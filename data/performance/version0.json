@@ -1,0 +1,82 @@
+{
+    "1": {
+        "avgGuessCount": 13.5,
+        "maxGuessCount": 26
+    },
+    "2": {
+        "avgGuessCount": 20.215456674473067,
+        "maxGuessCount": 49
+    },
+    "3": {
+        "avgGuessCount": 43.872769953051645,
+        "maxGuessCount": 1307
+    },
+    "4": {
+        "avgGuessCount": 23.043139437795713,
+        "maxGuessCount": 480
+    },
+    "5": {
+        "avgGuessCount": 17.371843196381455,
+        "maxGuessCount": 276
+    },
+    "6": {
+        "avgGuessCount": 13.791959563500033,
+        "maxGuessCount": 166
+    },
+    "7": {
+        "avgGuessCount": 9.91368636601743,
+        "maxGuessCount": 153
+    },
+    "8": {
+        "avgGuessCount": 7.778274933658745,
+        "maxGuessCount": 107
+    },
+    "9": {
+        "avgGuessCount": 6.583611100707839,
+        "maxGuessCount": 59
+    },
+    "10": {
+        "avgGuessCount": 5.530977502615975,
+        "maxGuessCount": 40
+    },
+    "11": {
+        "avgGuessCount": 4.827725831801593,
+        "maxGuessCount": 28
+    },
+    "12": {
+        "avgGuessCount": 4.5712618025751075,
+        "maxGuessCount": 21
+    },
+    "13": {
+        "avgGuessCount": 3.9623281130634074,
+        "maxGuessCount": 14
+    },
+    "14": {
+        "avgGuessCount": 3.752703371262987,
+        "maxGuessCount": 17
+    },
+    "15": {
+        "avgGuessCount": 3.4456251413068055,
+        "maxGuessCount": 11
+    },
+    "16": {
+        "avgGuessCount": 3.1962562717097645,
+        "maxGuessCount": 8
+    },
+    "17": {
+        "avgGuessCount": 3.1071789686552074,
+        "maxGuessCount": 12
+    },
+    "18": {
+        "avgGuessCount": 2.9938817131203264,
+        "maxGuessCount": 7
+    },
+    "19": {
+        "avgGuessCount": 2.860526315789474,
+        "maxGuessCount": 6
+    },
+    "20": {
+        "avgGuessCount": 2.565459610027855,
+        "maxGuessCount": 5
+    }
+}
